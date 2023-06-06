@@ -1,7 +1,7 @@
-# dmms
+# DMMS
 
 
-Welcome to DMMS! This decentralized application is built using Truffle and React.
+Welcome to DMMS (Decentralized Medication History Management)! This decentralized application is built using Truffle and React.
 
 ## Prerequisites
 
